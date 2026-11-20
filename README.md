@@ -19,9 +19,9 @@ Building AI agents, automation tools, and local LLM workflows — focused on mak
 
 ---
 
-### Links
+### Links 
 
-* **Discord:** dzotyara
 * **Telegram:** [t.me/dzotyara](https://t.me/dzotyara) — fastest way to reach me
 * **GitLab:** [gitlab.com/JustDzot](https://gitlab.com/JustDzot)
 * **Boosty:** [boosty.to/dzotyara](https://boosty.to/dzotyara) — support open-source work
+* **Discord:** *dzotyara*
