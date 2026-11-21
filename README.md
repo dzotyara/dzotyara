@@ -33,12 +33,6 @@ Building AI agents, automation tools, and local LLM workflows — focused on mak
   </tr>
 </table>
 
---- | :--- |
-| [**AI Forge**](https://github.com/dzotyara/ai-forge) | Manage Claude Code sessions from Telegram and Discord, and approve Codex requests from Discord. |
-| [**Text2Craft**](https://github.com/dzotyara/Text2Craft) | Generate, preview, and place Minecraft structures from prompts using local Ollama models. |
-| [**Botyara**](https://github.com/dzotyara/botyara) | Context-aware group chat bot for Telegram and Discord with a web panel and OpenRouter integration. |
-| [**HomeLLM**](https://github.com/dzotyara/HomeLLM) | Offline desktop AI assistant for running local models on your PC. |
-
 ---
 
 ### Links
