@@ -1,4 +1,4 @@
-<img src="assets/header.png" alt="dzotyara" width="100%" />
+<img src="assets/header.gif" alt="dzotyara" width="100%" />
 
 # dzotyara
 
