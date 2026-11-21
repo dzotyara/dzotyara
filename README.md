@@ -4,8 +4,6 @@
 
 Building AI agents, automation tools, and local LLM workflows — focused on making AI tooling practical and autonomous.
 
-**Currently building:** [**AI Forge**](https://github.com/dzotyara/ai-forge) & [**Text2Craft**](https://github.com/dzotyara/Text2Craft)
-
 ---
 
 ### Selected Projects
