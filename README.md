@@ -11,8 +11,8 @@ Building AI agents, automation tools, and local LLM workflows — focused on mak
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/dzotyara/ai-forge"><img src="https://raw.githubusercontent.com/dzotyara/ai-forge/main/docs/banner.gif" alt="AI Forge" width="100%" /></a>
-      <br /><b><a href="https://github.com/dzotyara/ai-forge">AI Forge</a></b> — approve and answer Claude Code and Codex from Discord and Telegram.
+      <a href="https://github.com/dzotyara/aukalo"><img src="https://raw.githubusercontent.com/dzotyara/aukalo/main/docs/banner.gif" alt="Aukalo" width="100%" /></a>
+      <br /><b><a href="https://github.com/dzotyara/aukalo">Aukalo</a></b> — your AI agents call, you answer from your phone: approve and answer Claude Code and Codex from Discord and Telegram.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dzotyara/Text2Craft"><img src="https://raw.githubusercontent.com/dzotyara/Text2Craft/main/docs/banner.gif" alt="Text2Craft" width="100%" /></a>
